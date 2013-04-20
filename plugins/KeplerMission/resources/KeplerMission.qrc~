@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="KeplerMission" >
+    <file>bt_kepler_mission_on.png</file>
+    <file>bt_kepler_mission_off.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,600 @@
+Binary file ./src/libStelGuiLib.a matches
+Binary file ./src/stellarium matches
+./src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtCore.so
+./src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtTest.so
+./src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtGui.so
+./src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libc.so
+./src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libc.so
+./src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libz.so
+./src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtCore.so
+./src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtTest.so
+./src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtGui.so
+./src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libc.so
+./src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libc.so
+./src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libz.so
+./src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtCore.so
+./src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtTest.so
+./src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtGui.so
+./src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libc.so
+./src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libc.so
+./src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libz.so
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/DateTimeDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/LocationDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/HelpDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/MapLabel.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_SearchDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/StelScriptSyntaxHighlighter.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/ConfigurationDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_Dialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/AtmosphereDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/ViewDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_AddRemoveLandscapesDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_SkyGui.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/StelDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_LocationDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/AngleSpinBox.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/SkyGui.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_StelDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_MapLabel.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_HelpDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_StelScriptSyntaxHighlighter.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_StelGuiItems.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/StelGui.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/StelGuiItems.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_DateTimeDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_AtmosphereDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/SearchDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_ConfigurationDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/ScriptConsole.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/Dialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_StelGui.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_ViewDialog.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_AngleSpinBox.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/moc_ScriptConsole.cxx.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/gui/AddRemoveLandscapesDialog.cpp.o matches
+Binary file ./src/CMakeFiles/StelGuiLib.dir/qrc_guiRes.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/StelMainGraphicsView.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/main.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/StelLogger.cpp.o matches
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtOpenGL.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtScript.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtGui.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtCore.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGLU.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGL.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libSM.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libICE.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libX11.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libXext.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libc.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libc.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libz.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtScript.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtGui.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtCore.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGLU.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGL.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libSM.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libICE.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libX11.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libXext.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libc.so
+./src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libz.so
+Binary file ./src/CMakeFiles/stellarium.dir/CLIProcessor.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/qrc_mainRes.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelFileMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelProjectorClasses.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelCore.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/OctahedronPolygon.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelTexture.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelLoadingBar.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_SimbadSearcher.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelSkyImageTile.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/MultiLevelJsonBase.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelModuleMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelObjectModule.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelSkyLayer.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelGeodesicGrid.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelTranslator.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelSkyPolygon.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSkyLayerMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelModuleMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelMovementMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelSkyDrawer.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelObserver.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSkyImageTile.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSkyCultureMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelVideoMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/geom.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/dict.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/memalloc.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/normal.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/tess.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/render.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/sweep.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/mesh.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/tessmono.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/libtess/priorityq.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/glues_stel/source/glues_error.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/GLee.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/kfilter/kzip.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/kfilter/kfilterbase.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/kfilter/karchive.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/kfilter/kfilterdev.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/kfilter/kgzipfilter.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/external/kfilter/klimitediodevice.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelObserver.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/planetsephems/marssat.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/planetsephems/l1.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/planetsephems/elp82b.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/planetsephems/vsop87.c.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelProjector.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelLocaleMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelSkyCultureMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelGuiBase.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelObjectMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSkyPolygon.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelCore.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/SimbadSearcher.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelLocationMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelVertexArray.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/TrailGroup.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSkyLayer.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/ZoneArray.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/StarWrapper.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/LabelMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Nebula.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Atmosphere.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Constellation.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_StarMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/ConstellationMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/StarMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/LandscapeMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_MeteorMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Orbit.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/GridLinesMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/NebulaMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Landscape.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_NebulaMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/MeteorMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_LabelMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_GridLinesMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_SolarSystem.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Meteor.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/SolarSystem.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Skybright.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_LandscapeMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_ConstellationMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/moc_MilkyWay.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/MinorPlanet.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Comet.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/MilkyWay.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Star.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Skylight.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/modules/Planet.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelJsonParser.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelObject.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelModule.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSkyDrawer.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSphereGeometry.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelMovementMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelApp.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelViewportEffect.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelIniParser.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelObjectMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelTextureMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelAudioMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelSkyLayerMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/SphericMirrorCalculator.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelVideoMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelAppGraphicsWidget.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelAudioMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelSphericalIndex.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelPainter.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelUtils.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_MultiLevelJsonBase.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelAppGraphicsWidget.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/RefractionExtinction.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelApp.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/StelLocation.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelLocationMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/core/moc_StelTexture.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/StelMainWindow.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/moc_StelMainWindow.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/StelMainScriptAPIProxy.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/StelScriptMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/moc_StelMainScriptAPIProxy.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/ScreenImageMgr.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/moc_StelScriptMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/StelMainScriptAPI.cpp.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/moc_ScreenImageMgr.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/scripting/moc_StelMainScriptAPI.cxx.o matches
+Binary file ./src/CMakeFiles/stellarium.dir/moc_StelMainGraphicsView.cxx.o matches
+./src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtCore.so
+./src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtTest.so
+./src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtGui.so
+./src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libc.so
+./src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libc.so
+./src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libz.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtCore.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtTest.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtGui.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libc.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libc.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libz.so
+./src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtOpenGL.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtCore.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtNetwork.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtTest.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtGui.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libc.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libc.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libz.so
+./src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtOpenGL.so
+./builds/unix/src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtTest.so
+./builds/unix/src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testDates.dir/build.make:src/testDates: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtTest.so
+./builds/unix/src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelJsonParser.dir/build.make:src/testStelJsonParser: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtTest.so
+./builds/unix/src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelVertexArray.dir/build.make:src/testStelVertexArray: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtOpenGL.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtScript.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGLU.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGL.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libSM.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libICE.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libX11.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libXext.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtScript.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGLU.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libGL.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libSM.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libICE.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libX11.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libXext.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/stellarium.dir/build.make:src/stellarium: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtTest.so
+./builds/unix/src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelFileMgr.dir/build.make:src/testStelFileMgr: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtTest.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/testStelSphericalIndex.dir/build.make:src/testStelSphericalIndex: /usr/lib/libQtOpenGL.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtCore.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtNetwork.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtTest.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtGui.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libc.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libz.so
+./builds/unix/src/CMakeFiles/testStelSphereGeometry.dir/build.make:src/testStelSphereGeometry: /usr/lib/libQtOpenGL.so
+./builds/unix/CMakeCache.txt:AngleMeasure-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:CompassMarks-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:Exoplanets-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:ICONV_LIBRARIES:FILEPATH=/usr/lib/libc.so
+./builds/unix/CMakeCache.txt:INTL_LIBRARIES:FILEPATH=/usr/lib/libc.so
+./builds/unix/CMakeCache.txt:KeplerMission-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:OPENGL_gl_LIBRARY:FILEPATH=/usr/lib/libGL.so
+./builds/unix/CMakeCache.txt:OPENGL_glu_LIBRARY:FILEPATH=/usr/lib/libGLU.so
+./builds/unix/CMakeCache.txt:Oculars-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtTest.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:Pulsars-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:QT_PLUGINS_DIR:PATH=/usr/lib/qt4/plugins
+./builds/unix/CMakeCache.txt:QT_QT3SUPPORT_LIBRARY:STRING=/usr/lib/libQt3Support.so
+./builds/unix/CMakeCache.txt:QT_QT3SUPPORT_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQt3Support.so
+./builds/unix/CMakeCache.txt:QT_QTCLUCENE_LIBRARY:STRING=/usr/lib/libQtCLucene.so
+./builds/unix/CMakeCache.txt:QT_QTCLUCENE_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtCLucene.so
+./builds/unix/CMakeCache.txt:QT_QTCORE_LIBRARY:STRING=/usr/lib/libQtCore.so
+./builds/unix/CMakeCache.txt:QT_QTCORE_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtCore.so
+./builds/unix/CMakeCache.txt:QT_QTDBUS_LIBRARY:STRING=/usr/lib/libQtDBus.so
+./builds/unix/CMakeCache.txt:QT_QTDBUS_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtDBus.so
+./builds/unix/CMakeCache.txt:QT_QTDECLARATIVE_LIBRARY:STRING=/usr/lib/libQtDeclarative.so
+./builds/unix/CMakeCache.txt:QT_QTDECLARATIVE_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtDeclarative.so
+./builds/unix/CMakeCache.txt:QT_QTDESIGNERCOMPONENTS_LIBRARY:STRING=/usr/lib/libQtDesignerComponents.so
+./builds/unix/CMakeCache.txt:QT_QTDESIGNERCOMPONENTS_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtDesignerComponents.so
+./builds/unix/CMakeCache.txt:QT_QTDESIGNER_LIBRARY:STRING=/usr/lib/libQtDesigner.so
+./builds/unix/CMakeCache.txt:QT_QTDESIGNER_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtDesigner.so
+./builds/unix/CMakeCache.txt:QT_QTGUI_LIBRARY:STRING=/usr/lib/libQtGui.so
+./builds/unix/CMakeCache.txt:QT_QTGUI_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtGui.so
+./builds/unix/CMakeCache.txt:QT_QTHELP_LIBRARY:STRING=/usr/lib/libQtHelp.so
+./builds/unix/CMakeCache.txt:QT_QTHELP_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtHelp.so
+./builds/unix/CMakeCache.txt:QT_QTNETWORK_LIBRARY:STRING=/usr/lib/libQtNetwork.so
+./builds/unix/CMakeCache.txt:QT_QTNETWORK_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtNetwork.so
+./builds/unix/CMakeCache.txt:QT_QTOPENGL_LIBRARY:STRING=/usr/lib/libQtOpenGL.so
+./builds/unix/CMakeCache.txt:QT_QTOPENGL_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtOpenGL.so
+./builds/unix/CMakeCache.txt:QT_QTSCRIPTTOOLS_LIBRARY:STRING=/usr/lib/libQtScriptTools.so
+./builds/unix/CMakeCache.txt:QT_QTSCRIPTTOOLS_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtScriptTools.so
+./builds/unix/CMakeCache.txt:QT_QTSCRIPT_LIBRARY:STRING=/usr/lib/libQtScript.so
+./builds/unix/CMakeCache.txt:QT_QTSCRIPT_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtScript.so
+./builds/unix/CMakeCache.txt:QT_QTSQL_LIBRARY:STRING=/usr/lib/libQtSql.so
+./builds/unix/CMakeCache.txt:QT_QTSQL_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtSql.so
+./builds/unix/CMakeCache.txt:QT_QTSVG_LIBRARY:STRING=/usr/lib/libQtSvg.so
+./builds/unix/CMakeCache.txt:QT_QTSVG_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtSvg.so
+./builds/unix/CMakeCache.txt:QT_QTTEST_LIBRARY:STRING=/usr/lib/libQtTest.so
+./builds/unix/CMakeCache.txt:QT_QTTEST_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtTest.so
+./builds/unix/CMakeCache.txt:QT_QTUITOOLS_LIBRARY:STRING=/usr/lib/libQtUiTools.a
+./builds/unix/CMakeCache.txt:QT_QTUITOOLS_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtUiTools.a
+./builds/unix/CMakeCache.txt:QT_QTWEBKIT_LIBRARY:STRING=/usr/lib/libQtWebKit.so
+./builds/unix/CMakeCache.txt:QT_QTWEBKIT_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtWebKit.so
+./builds/unix/CMakeCache.txt:QT_QTXMLPATTERNS_LIBRARY:STRING=/usr/lib/libQtXmlPatterns.so
+./builds/unix/CMakeCache.txt:QT_QTXMLPATTERNS_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtXmlPatterns.so
+./builds/unix/CMakeCache.txt:QT_QTXML_LIBRARY:STRING=/usr/lib/libQtXml.so
+./builds/unix/CMakeCache.txt:QT_QTXML_LIBRARY_RELEASE:FILEPATH=/usr/lib/libQtXml.so
+./builds/unix/CMakeCache.txt:Quasars-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:Satellites-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:SolarSystemEditor-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:StelGuiLib_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:Supernovae-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:TelescopeControl-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:TextUserInterface-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:TimeZoneConfiguration-static_LIB_DEPENDS:STATIC=general;/usr/lib/libQtOpenGL.so;general;/usr/lib/libQtScript.so;general;/usr/lib/libQtGui.so;general;/usr/lib/libQtNetwork.so;general;/usr/lib/libQtCore.so;general;/usr/lib/libGLU.so;general;/usr/lib/libGL.so;general;/usr/lib/libSM.so;general;/usr/lib/libICE.so;general;/usr/lib/libX11.so;general;/usr/lib/libXext.so;general;/usr/lib/libc.so;general;/usr/lib/libc.so;
+./builds/unix/CMakeCache.txt:X11_ICE_LIB:FILEPATH=/usr/lib/libICE.so
+./builds/unix/CMakeCache.txt:X11_SM_LIB:FILEPATH=/usr/lib/libSM.so
+./builds/unix/CMakeCache.txt:X11_X11_LIB:FILEPATH=/usr/lib/libX11.so
+./builds/unix/CMakeCache.txt:X11_XTest_LIB:FILEPATH=/usr/lib/libXtst.so
+./builds/unix/CMakeCache.txt:X11_Xau_LIB:FILEPATH=/usr/lib/libXau.so
+./builds/unix/CMakeCache.txt:X11_Xcomposite_LIB:FILEPATH=/usr/lib/libXcomposite.so
+./builds/unix/CMakeCache.txt:X11_Xcursor_LIB:FILEPATH=/usr/lib/libXcursor.so
+./builds/unix/CMakeCache.txt:X11_Xdamage_LIB:FILEPATH=/usr/lib/libXdamage.so
+./builds/unix/CMakeCache.txt:X11_Xdmcp_LIB:FILEPATH=/usr/lib/libXdmcp.so
+./builds/unix/CMakeCache.txt:X11_Xext_LIB:FILEPATH=/usr/lib/libXext.so
+./builds/unix/CMakeCache.txt:X11_Xfixes_LIB:FILEPATH=/usr/lib/libXfixes.so
+./builds/unix/CMakeCache.txt:X11_Xft_LIB:FILEPATH=/usr/lib/libXft.so
+./builds/unix/CMakeCache.txt:X11_Xi_LIB:FILEPATH=/usr/lib/libXi.so
+./builds/unix/CMakeCache.txt:X11_Xinerama_LIB:FILEPATH=/usr/lib/libXinerama.so
+./builds/unix/CMakeCache.txt:X11_Xinput_LIB:FILEPATH=/usr/lib/libXi.so
+./builds/unix/CMakeCache.txt:X11_Xpm_LIB:FILEPATH=/usr/lib/libXpm.so
+./builds/unix/CMakeCache.txt:X11_Xrandr_LIB:FILEPATH=/usr/lib/libXrandr.so
+./builds/unix/CMakeCache.txt:X11_Xrender_LIB:FILEPATH=/usr/lib/libXrender.so
+./builds/unix/CMakeCache.txt:X11_Xscreensaver_LIB:FILEPATH=/usr/lib/libXss.so
+./builds/unix/CMakeCache.txt:X11_Xt_LIB:FILEPATH=/usr/lib/libXt.so
+./builds/unix/CMakeCache.txt:X11_Xv_LIB:FILEPATH=/usr/lib/libXv.so
+./builds/unix/CMakeCache.txt:ZLIB_LIBRARY:FILEPATH=/usr/lib/libz.so
+./builds/unix/CMakeCache.txt:FIND_PACKAGE_MESSAGE_DETAILS_OpenGL:INTERNAL=[/usr/lib/libGL.so][v()]
+./builds/unix/CMakeCache.txt:FIND_PACKAGE_MESSAGE_DETAILS_Qt4:INTERNAL=[/usr/bin/qmake][/usr/bin/moc-qt4][/usr/bin/rcc][/usr/bin/uic-qt4][/usr/include/qt4][/usr/lib][/usr/lib/libQtCore.so][v4.8.1(4.6.2)]
+./builds/unix/CMakeCache.txt:FIND_PACKAGE_MESSAGE_DETAILS_X11:INTERNAL=[/usr/lib/libX11.so][/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include;/usr/include]
+./builds/unix/CMakeCache.txt:FIND_PACKAGE_MESSAGE_DETAILS_ZLIB:INTERNAL=[/usr/lib/libz.so][/usr/include][v1.2.3.4()]
+./builds/unix/CMakeCache.txt:QT_LIBRARY_DIR:INTERNAL=/usr/lib
+./builds/unix/CMakeCache.txt://Have library /usr/lib/libX11.so;/usr/lib/libXext.so
+./builds/unix/CMakeFiles/CMakeCXXCompiler.cmake:SET(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "/usr/lib/gcc/i686-linux-gnu/4.4.5;/usr/lib;/lib;/usr/lib/i686-linux-gnu")
+./builds/unix/CMakeFiles/CMakeCCompiler.cmake:SET(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "/usr/lib/gcc/i686-linux-gnu/4.4.5;/usr/lib;/lib;/usr/lib/i686-linux-gnu")
+./builds/unix/CMakeFiles/CMakeOutput.log:Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.4.4-14ubuntu5' --with-bugurl=file:///usr/share/doc/gcc-4.4/README.Bugs --enable-languages=c,c++,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.4 --enable-shared --enable-multiarch --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.4 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-objc-gc --enable-targets=all --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=i686-linux-gnu --host=i686-linux-gnu --target=i686-linux-gnu
+./builds/unix/CMakeFiles/CMakeOutput.log:COMPILER_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/
+./builds/unix/CMakeFiles/CMakeOutput.log:LIBRARY_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../:/lib/:/usr/lib/:/usr/lib/i686-linux-gnu/
+./builds/unix/CMakeFiles/CMakeOutput.log: /usr/lib/gcc/i686-linux-gnu/4.4.5/collect2 --build-id --eh-frame-hdr -m elf_i386 --hash-style=gnu -export-dynamic -dynamic-linker /lib/ld-linux.so.2 -o cmTryCompileExec -z relro /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crt1.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crti.o /usr/lib/gcc/i686-linux-gnu/4.4.5/crtbegin.o -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../.. -L/usr/lib/i686-linux-gnu CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/i686-linux-gnu/4.4.5/crtend.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crtn.o
+./builds/unix/CMakeFiles/CMakeOutput.log:  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.4.4-14ubuntu5' --with-bugurl=file:///usr/share/doc/gcc-4.4/README.Bugs --enable-languages=c,c++,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.4 --enable-shared --enable-multiarch --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.4 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-objc-gc --enable-targets=all --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=i686-linux-gnu --host=i686-linux-gnu --target=i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:  ignore line: [COMPILER_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/]
+./builds/unix/CMakeFiles/CMakeOutput.log:  ignore line: [LIBRARY_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../:/lib/:/usr/lib/:/usr/lib/i686-linux-gnu/]
+./builds/unix/CMakeFiles/CMakeOutput.log:  link line: [ /usr/lib/gcc/i686-linux-gnu/4.4.5/collect2 --build-id --eh-frame-hdr -m elf_i386 --hash-style=gnu -export-dynamic -dynamic-linker /lib/ld-linux.so.2 -o cmTryCompileExec -z relro /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crt1.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crti.o /usr/lib/gcc/i686-linux-gnu/4.4.5/crtbegin.o -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../.. -L/usr/lib/i686-linux-gnu CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/i686-linux-gnu/4.4.5/crtend.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crtn.o]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/collect2] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crt1.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crti.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/crtbegin.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../..] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../..]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/i686-linux-gnu] ==> dir [/usr/lib/i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/crtend.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crtn.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib] ==> [/usr/lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/../lib] ==> [/usr/lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../..] ==> [/usr/lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/i686-linux-gnu] ==> [/usr/lib/i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:  implicit dirs: [/usr/lib/gcc/i686-linux-gnu/4.4.5;/usr/lib;/lib;/usr/lib/i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.4.4-14ubuntu5' --with-bugurl=file:///usr/share/doc/gcc-4.4/README.Bugs --enable-languages=c,c++,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.4 --enable-shared --enable-multiarch --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.4 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-objc-gc --enable-targets=all --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=i686-linux-gnu --host=i686-linux-gnu --target=i686-linux-gnu
+./builds/unix/CMakeFiles/CMakeOutput.log:COMPILER_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/
+./builds/unix/CMakeFiles/CMakeOutput.log:LIBRARY_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../:/lib/:/usr/lib/:/usr/lib/i686-linux-gnu/
+./builds/unix/CMakeFiles/CMakeOutput.log: /usr/lib/gcc/i686-linux-gnu/4.4.5/collect2 --build-id --eh-frame-hdr -m elf_i386 --hash-style=gnu -export-dynamic -dynamic-linker /lib/ld-linux.so.2 -o cmTryCompileExec -z relro /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crt1.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crti.o /usr/lib/gcc/i686-linux-gnu/4.4.5/crtbegin.o -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../.. -L/usr/lib/i686-linux-gnu CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/i686-linux-gnu/4.4.5/crtend.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crtn.o
+./builds/unix/CMakeFiles/CMakeOutput.log:  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 4.4.4-14ubuntu5' --with-bugurl=file:///usr/share/doc/gcc-4.4/README.Bugs --enable-languages=c,c++,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.4 --enable-shared --enable-multiarch --enable-linker-build-id --with-system-zlib --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.4 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-objc-gc --enable-targets=all --disable-werror --with-arch-32=i686 --with-tune=generic --enable-checking=release --build=i686-linux-gnu --host=i686-linux-gnu --target=i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:  ignore line: [COMPILER_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/]
+./builds/unix/CMakeFiles/CMakeOutput.log:  ignore line: [LIBRARY_PATH=/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../:/lib/:/usr/lib/:/usr/lib/i686-linux-gnu/]
+./builds/unix/CMakeFiles/CMakeOutput.log:  link line: [ /usr/lib/gcc/i686-linux-gnu/4.4.5/collect2 --build-id --eh-frame-hdr -m elf_i386 --hash-style=gnu -export-dynamic -dynamic-linker /lib/ld-linux.so.2 -o cmTryCompileExec -z relro /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crt1.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crti.o /usr/lib/gcc/i686-linux-gnu/4.4.5/crtbegin.o -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5 -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../.. -L/usr/lib/i686-linux-gnu CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/i686-linux-gnu/4.4.5/crtend.o /usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crtn.o]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/collect2] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crt1.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crti.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/crtbegin.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/gcc/i686-linux-gnu/4.4.5/../../..] ==> dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../..]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [-L/usr/lib/i686-linux-gnu] ==> dir [/usr/lib/i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/crtend.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:    arg [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib/crtn.o] ==> ignore
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5] ==> [/usr/lib/gcc/i686-linux-gnu/4.4.5]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../../../lib] ==> [/usr/lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/../lib] ==> [/usr/lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/gcc/i686-linux-gnu/4.4.5/../../..] ==> [/usr/lib]
+./builds/unix/CMakeFiles/CMakeOutput.log:  collapse dir [/usr/lib/i686-linux-gnu] ==> [/usr/lib/i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:  implicit dirs: [/usr/lib/gcc/i686-linux-gnu/4.4.5;/usr/lib;/lib;/usr/lib/i686-linux-gnu]
+./builds/unix/CMakeFiles/CMakeOutput.log:Determining if the function XOpenDisplay exists in the /usr/lib/libX11.so;/usr/lib/libXext.so passed with the following output:
+./CMakeLists.txt:	  /usr/lib/
+./CMakeLists.txt:	/usr/lib/
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/TelescopeControl.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/moc_TelescopeControl.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/gui/moc_SlewDialog.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/gui/TelescopeConfigurationDialog.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/gui/SlewDialog.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/gui/moc_TelescopeConfigurationDialog.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/gui/TelescopeDialog.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/gui/moc_TelescopeDialog.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/NexStarCommand.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/SerialPort.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/Lx200Command.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/Socket.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/Lx200Connection.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/NexStarConnection.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/LogFile.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/Connection.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/servers/Server.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/qrc_TelescopeControl.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/clients/TelescopeClient.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/clients/moc_TelescopeClient.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/clients/moc_TelescopeClientDirectLx200.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/clients/TelescopeClientDirectLx200.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/clients/moc_TelescopeClientDirectNexStar.cxx.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/clients/TelescopeClientDirectNexStar.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/CMakeFiles/TelescopeControl-static.dir/clients/InterpolatedPosition.cpp.o matches
+Binary file ./plugins/TelescopeControl/src/libTelescopeControl.a matches
+Binary file ./plugins/AngleMeasure/src/CMakeFiles/AngleMeasure-static.dir/moc_AngleMeasure.cxx.o matches
+Binary file ./plugins/AngleMeasure/src/CMakeFiles/AngleMeasure-static.dir/qrc_AngleMeasure.cxx.o matches
+Binary file ./plugins/AngleMeasure/src/CMakeFiles/AngleMeasure-static.dir/AngleMeasure.cpp.o matches
+Binary file ./plugins/AngleMeasure/src/libAngleMeasure.a matches
+Binary file ./plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/qrc_Pulsars.cxx.o matches
+Binary file ./plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/gui/PulsarsDialog.cpp.o matches
+Binary file ./plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/gui/moc_PulsarsDialog.cxx.o matches
+Binary file ./plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/moc_Pulsars.cxx.o matches
+Binary file ./plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/Pulsars.cpp.o matches
+Binary file ./plugins/Pulsars/src/CMakeFiles/Pulsars-static.dir/Pulsar.cpp.o matches
+Binary file ./plugins/Pulsars/src/libPulsars.a matches
+Binary file ./plugins/TimeZoneConfiguration/src/libTimeZoneConfiguration.a matches
+Binary file ./plugins/TimeZoneConfiguration/src/CMakeFiles/TimeZoneConfiguration-static.dir/TimeZoneConfiguration.cpp.o matches
+Binary file ./plugins/TimeZoneConfiguration/src/CMakeFiles/TimeZoneConfiguration-static.dir/moc_TimeZoneConfiguration.cxx.o matches
+Binary file ./plugins/TimeZoneConfiguration/src/CMakeFiles/TimeZoneConfiguration-static.dir/gui/DefineTimeZoneWindow.cpp.o matches
+Binary file ./plugins/TimeZoneConfiguration/src/CMakeFiles/TimeZoneConfiguration-static.dir/gui/moc_TimeZoneConfigurationWindow.cxx.o matches
+Binary file ./plugins/TimeZoneConfiguration/src/CMakeFiles/TimeZoneConfiguration-static.dir/gui/TimeZoneConfigurationWindow.cpp.o matches
+Binary file ./plugins/TimeZoneConfiguration/src/CMakeFiles/TimeZoneConfiguration-static.dir/gui/moc_DefineTimeZoneWindow.cxx.o matches
+Binary file ./plugins/Supernovae/src/libSupernovae.a matches
+Binary file ./plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/gui/SupernovaeDialog.cpp.o matches
+Binary file ./plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/gui/moc_SupernovaeDialog.cxx.o matches
+Binary file ./plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/Supernovae.cpp.o matches
+Binary file ./plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/Supernova.cpp.o matches
+Binary file ./plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/qrc_Supernovae.cxx.o matches
+Binary file ./plugins/Supernovae/src/CMakeFiles/Supernovae-static.dir/moc_Supernovae.cxx.o matches
+./plugins/LogBook/cmake/FindIconv.cmake:  /usr/lib
+Binary file ./plugins/Quasars/src/CMakeFiles/Quasars-static.dir/Quasar.cpp.o matches
+Binary file ./plugins/Quasars/src/CMakeFiles/Quasars-static.dir/moc_Quasars.cxx.o matches
+Binary file ./plugins/Quasars/src/CMakeFiles/Quasars-static.dir/gui/moc_QuasarsDialog.cxx.o matches
+Binary file ./plugins/Quasars/src/CMakeFiles/Quasars-static.dir/gui/QuasarsDialog.cpp.o matches
+Binary file ./plugins/Quasars/src/CMakeFiles/Quasars-static.dir/Quasars.cpp.o matches
+Binary file ./plugins/Quasars/src/CMakeFiles/Quasars-static.dir/qrc_Quasars.cxx.o matches
+Binary file ./plugins/Quasars/src/libQuasars.a matches
+Binary file ./plugins/CompassMarks/src/libCompassMarks.a matches
+Binary file ./plugins/CompassMarks/src/CMakeFiles/CompassMarks-static.dir/moc_CompassMarks.cxx.o matches
+Binary file ./plugins/CompassMarks/src/CMakeFiles/CompassMarks-static.dir/qrc_CompassMarks.cxx.o matches
+Binary file ./plugins/CompassMarks/src/CMakeFiles/CompassMarks-static.dir/CompassMarks.cpp.o matches
+Binary file ./plugins/Oculars/src/libOculars.a matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/qrc_Oculars.cxx.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/moc_PropertyBasedTableModel.cxx.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/OcularDialog.cpp.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/moc_OcularsGuiPanel.cxx.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/OcularsGuiPanel.cpp.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/PropertyBasedTableModel.cpp.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/gui/moc_OcularDialog.cxx.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/moc_Oculars.cxx.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Telescope.cpp.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/moc_Ocular.cxx.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Oculars.cpp.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/CCD.cpp.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/moc_Telescope.cxx.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/Ocular.cpp.o matches
+Binary file ./plugins/Oculars/src/CMakeFiles/Oculars-static.dir/moc_CCD.cxx.o matches
+./plugins/Oculars/cmake/FindIconv.cmake:  /usr/lib
+Binary file ./plugins/Exoplanets/src/libExoplanets.a matches
+Binary file ./plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/Exoplanet.cpp.o matches
+Binary file ./plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/gui/moc_ExoplanetsDialog.cxx.o matches
+Binary file ./plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/gui/ExoplanetsDialog.cpp.o matches
+Binary file ./plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/qrc_Exoplanets.cxx.o matches
+Binary file ./plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/Exoplanets.cpp.o matches
+Binary file ./plugins/Exoplanets/src/CMakeFiles/Exoplanets-static.dir/moc_Exoplanets.cxx.o matches
+Binary file ./plugins/KeplerMission/src/CMakeFiles/KeplerMission-static.dir/moc_KeplerMission.cxx.o matches
+Binary file ./plugins/KeplerMission/src/CMakeFiles/KeplerMission-static.dir/KeplerMission.cpp.o matches
+Binary file ./plugins/KeplerMission/src/libKeplerMission.a matches
+Binary file ./plugins/Satellites/src/libSatellites.a matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/SatellitesImportDialog.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/moc_SatellitesImportDialog.cxx.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/moc_SatellitesDialog.cxx.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gui/SatellitesDialog.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/moc_Satellites.cxx.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/Satellites.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gSatWrapper.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/qrc_Satellites.cxx.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/sgp4ext.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/sgp4io.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/gVector.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/gSatTEME.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/sgp4unit.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/gTimeSpan.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/gsatellite/gTime.cpp.o matches
+Binary file ./plugins/Satellites/src/CMakeFiles/Satellites-static.dir/Satellite.cpp.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/moc_ManualImportWindow.cxx.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/moc_MpcImportWindow.cxx.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/MpcImportWindow.cpp.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/ManualImportWindow.cpp.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/SolarSystemManagerWindow.cpp.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/gui/moc_SolarSystemManagerWindow.cxx.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/moc_SolarSystemEditor.cxx.o matches
+Binary file ./plugins/SolarSystemEditor/src/CMakeFiles/SolarSystemEditor-static.dir/SolarSystemEditor.cpp.o matches
+Binary file ./plugins/SolarSystemEditor/src/libSolarSystemEditor.a matches
+Binary file ./plugins/TextUserInterface/src/libTextUserInterface.a matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeDouble.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeFloat.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeFloat.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeInt.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeEnum.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeDouble.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeEditable.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TextUserInterface.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeDateTime.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeDateTime.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeBool.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TextUserInterface.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeColor.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/DummyDialog.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeInt.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeColor.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeBool.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_DummyDialog.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeEnum.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNodeActivate.cxx.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeEditable.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNode.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/TuiNodeActivate.cpp.o matches
+Binary file ./plugins/TextUserInterface/src/CMakeFiles/TextUserInterface-static.dir/moc_TuiNode.cxx.o matches
+./cmake/FindIconv.cmake:  /usr/lib/
+./util/pkgApp.pl:	if ( $name =~ m,^(/System/Library|/usr/lib|\@executable_name), &&
+./util/pkgApp.pl:	     $name !~ m,^(/usr/lib/libiconv), && $name !~ m,^(/usr/lib/libintl),){ 

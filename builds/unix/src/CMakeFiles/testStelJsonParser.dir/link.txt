@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -O3 -DNDEBUG    CMakeFiles/testStelJsonParser.dir/tests/testStelJsonParser.cpp.o CMakeFiles/testStelJsonParser.dir/core/StelJsonParser.cpp.o CMakeFiles/testStelJsonParser.dir/tests/moc_testStelJsonParser.cxx.o  -o testStelJsonParser -rdynamic -lQtCore -lQtNetwork -lQtTest -lQtGui -lc -lc -lz 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -O3 -DNDEBUG    CMakeFiles/testStelFileMgr.dir/core/StelFileMgr.cpp.o CMakeFiles/testStelFileMgr.dir/tests/testStelFileMgr.cpp.o CMakeFiles/testStelFileMgr.dir/tests/moc_testStelFileMgr.cxx.o  -o testStelFileMgr -rdynamic -lQtCore -lQtNetwork -lQtTest -lQtGui -lc -lc -lz 

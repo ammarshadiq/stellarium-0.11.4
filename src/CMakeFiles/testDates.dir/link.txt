@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -O3 -DNDEBUG   CMakeFiles/testDates.dir/core/StelUtils.cpp.o CMakeFiles/testDates.dir/tests/testDates.cpp.o CMakeFiles/testDates.dir/tests/moc_testDates.cxx.o  -o testDates -rdynamic -lQtCore -lQtNetwork -lQtTest -lQtGui -lc -lc -lz 

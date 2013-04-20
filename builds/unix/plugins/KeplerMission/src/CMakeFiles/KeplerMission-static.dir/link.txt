@@ -1,0 +1,2 @@
+/usr/bin/ar cr libKeplerMission.a  CMakeFiles/KeplerMission-static.dir/KeplerMission.cpp.o CMakeFiles/KeplerMission-static.dir/gui/KeplerMissionDialog.cpp.o CMakeFiles/KeplerMission-static.dir/moc_KeplerMission.cxx.o CMakeFiles/KeplerMission-static.dir/gui/moc_KeplerMissionDialog.cxx.o CMakeFiles/KeplerMission-static.dir/qrc_KeplerMission.cxx.o
+/usr/bin/ranlib libKeplerMission.a

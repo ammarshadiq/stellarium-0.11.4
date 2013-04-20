@@ -1,0 +1,5377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="88">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="stellarium-0.11.4">
+      <df name="builds">
+        <df name="unix">
+          <df name="plugins">
+            <df name="AngleMeasure">
+              <df name="src">
+                <in>moc_AngleMeasure.cxx</in>
+                <in>qrc_AngleMeasure.cxx</in>
+              </df>
+            </df>
+            <df name="CompassMarks">
+              <df name="src">
+                <in>moc_CompassMarks.cxx</in>
+                <in>qrc_CompassMarks.cxx</in>
+              </df>
+            </df>
+            <df name="Exoplanets">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_ExoplanetsDialog.cxx</in>
+                </df>
+                <in>moc_Exoplanets.cxx</in>
+                <in>qrc_Exoplanets.cxx</in>
+              </df>
+            </df>
+            <df name="KeplerMission">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_KeplerMissionDialog.cxx</in>
+                </df>
+                <in>moc_KeplerMission.cxx</in>
+                <in>qrc_KeplerMission.cxx</in>
+              </df>
+            </df>
+            <df name="Oculars">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_OcularDialog.cxx</in>
+                  <in>moc_OcularsGuiPanel.cxx</in>
+                  <in>moc_PropertyBasedTableModel.cxx</in>
+                </df>
+                <in>moc_CCD.cxx</in>
+                <in>moc_Ocular.cxx</in>
+                <in>moc_Oculars.cxx</in>
+                <in>moc_Telescope.cxx</in>
+                <in>qrc_Oculars.cxx</in>
+              </df>
+            </df>
+            <df name="Pulsars">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_PulsarsDialog.cxx</in>
+                </df>
+                <in>moc_Pulsars.cxx</in>
+                <in>qrc_Pulsars.cxx</in>
+              </df>
+            </df>
+            <df name="Quasars">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_QuasarsDialog.cxx</in>
+                </df>
+                <in>moc_Quasars.cxx</in>
+                <in>qrc_Quasars.cxx</in>
+              </df>
+            </df>
+            <df name="Satellites">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_SatellitesDialog.cxx</in>
+                  <in>moc_SatellitesImportDialog.cxx</in>
+                </df>
+                <in>moc_Satellites.cxx</in>
+                <in>qrc_Satellites.cxx</in>
+              </df>
+            </df>
+            <df name="SolarSystemEditor">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_ManualImportWindow.cxx</in>
+                  <in>moc_MpcImportWindow.cxx</in>
+                  <in>moc_SolarSystemManagerWindow.cxx</in>
+                </df>
+                <in>moc_SolarSystemEditor.cxx</in>
+              </df>
+            </df>
+            <df name="Supernovae">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_SupernovaeDialog.cxx</in>
+                </df>
+                <in>moc_Supernovae.cxx</in>
+                <in>qrc_Supernovae.cxx</in>
+              </df>
+            </df>
+            <df name="TelescopeControl">
+              <df name="src">
+                <df name="clients">
+                  <in>moc_TelescopeClient.cxx</in>
+                  <in>moc_TelescopeClientDirectLx200.cxx</in>
+                  <in>moc_TelescopeClientDirectNexStar.cxx</in>
+                </df>
+                <df name="gui">
+                  <in>moc_SlewDialog.cxx</in>
+                  <in>moc_TelescopeConfigurationDialog.cxx</in>
+                  <in>moc_TelescopeDialog.cxx</in>
+                </df>
+                <in>moc_TelescopeControl.cxx</in>
+                <in>qrc_TelescopeControl.cxx</in>
+              </df>
+            </df>
+            <df name="TextUserInterface">
+              <df name="src">
+                <in>moc_DummyDialog.cxx</in>
+                <in>moc_TextUserInterface.cxx</in>
+                <in>moc_TuiNode.cxx</in>
+                <in>moc_TuiNodeActivate.cxx</in>
+                <in>moc_TuiNodeBool.cxx</in>
+                <in>moc_TuiNodeColor.cxx</in>
+                <in>moc_TuiNodeDateTime.cxx</in>
+                <in>moc_TuiNodeDouble.cxx</in>
+                <in>moc_TuiNodeEditable.cxx</in>
+                <in>moc_TuiNodeEnum.cxx</in>
+                <in>moc_TuiNodeFloat.cxx</in>
+                <in>moc_TuiNodeInt.cxx</in>
+              </df>
+            </df>
+            <df name="TimeZoneConfiguration">
+              <df name="src">
+                <df name="gui">
+                  <in>moc_DefineTimeZoneWindow.cxx</in>
+                  <in>moc_TimeZoneConfigurationWindow.cxx</in>
+                </df>
+                <in>moc_TimeZoneConfiguration.cxx</in>
+              </df>
+            </df>
+          </df>
+          <df name="src">
+            <df name="core">
+              <df name="modules">
+                <in>moc_ConstellationMgr.cxx</in>
+                <in>moc_GridLinesMgr.cxx</in>
+                <in>moc_LabelMgr.cxx</in>
+                <in>moc_LandscapeMgr.cxx</in>
+                <in>moc_MeteorMgr.cxx</in>
+                <in>moc_MilkyWay.cxx</in>
+                <in>moc_NebulaMgr.cxx</in>
+                <in>moc_SolarSystem.cxx</in>
+                <in>moc_StarMgr.cxx</in>
+              </df>
+              <in>moc_MultiLevelJsonBase.cxx</in>
+              <in>moc_SimbadSearcher.cxx</in>
+              <in>moc_StelApp.cxx</in>
+              <in>moc_StelAppGraphicsWidget.cxx</in>
+              <in>moc_StelAudioMgr.cxx</in>
+              <in>moc_StelCore.cxx</in>
+              <in>moc_StelLocationMgr.cxx</in>
+              <in>moc_StelModuleMgr.cxx</in>
+              <in>moc_StelMovementMgr.cxx</in>
+              <in>moc_StelObjectMgr.cxx</in>
+              <in>moc_StelObserver.cxx</in>
+              <in>moc_StelSkyCultureMgr.cxx</in>
+              <in>moc_StelSkyDrawer.cxx</in>
+              <in>moc_StelSkyImageTile.cxx</in>
+              <in>moc_StelSkyLayer.cxx</in>
+              <in>moc_StelSkyLayerMgr.cxx</in>
+              <in>moc_StelSkyPolygon.cxx</in>
+              <in>moc_StelTexture.cxx</in>
+              <in>moc_StelVideoMgr.cxx</in>
+            </df>
+            <df name="gui">
+              <in>moc_AddRemoveLandscapesDialog.cxx</in>
+              <in>moc_AngleSpinBox.cxx</in>
+              <in>moc_AtmosphereDialog.cxx</in>
+              <in>moc_ConfigurationDialog.cxx</in>
+              <in>moc_DateTimeDialog.cxx</in>
+              <in>moc_Dialog.cxx</in>
+              <in>moc_HelpDialog.cxx</in>
+              <in>moc_LocationDialog.cxx</in>
+              <in>moc_MapLabel.cxx</in>
+              <in>moc_ScriptConsole.cxx</in>
+              <in>moc_SearchDialog.cxx</in>
+              <in>moc_SkyGui.cxx</in>
+              <in>moc_StelDialog.cxx</in>
+              <in>moc_StelGui.cxx</in>
+              <in>moc_StelGuiItems.cxx</in>
+              <in>moc_StelScriptSyntaxHighlighter.cxx</in>
+              <in>moc_ViewDialog.cxx</in>
+            </df>
+            <df name="scripting">
+              <in>moc_ScreenImageMgr.cxx</in>
+              <in>moc_StelMainScriptAPI.cxx</in>
+              <in>moc_StelMainScriptAPIProxy.cxx</in>
+              <in>moc_StelScriptMgr.cxx</in>
+            </df>
+            <in>moc_StelMainGraphicsView.cxx</in>
+            <in>moc_StelMainWindow.cxx</in>
+            <in>qrc_guiRes.cxx</in>
+            <in>qrc_mainRes.cxx</in>
+          </df>
+        </df>
+      </df>
+      <df name="plugins">
+        <df name="AngleMeasure">
+          <df name="src">
+            <in>AngleMeasure.cpp</in>
+            <in>AngleMeasure.hpp</in>
+            <in>qrc_AngleMeasure.cxx</in>
+          </df>
+        </df>
+        <df name="CompassMarks">
+          <df name="src">
+            <in>CompassMarks.cpp</in>
+            <in>CompassMarks.hpp</in>
+            <in>qrc_CompassMarks.cxx</in>
+          </df>
+        </df>
+        <df name="Exoplanets">
+          <df name="src">
+            <df name="gui">
+              <in>ExoplanetsDialog.cpp</in>
+              <in>ExoplanetsDialog.hpp</in>
+            </df>
+            <in>Exoplanet.cpp</in>
+            <in>Exoplanet.hpp</in>
+            <in>Exoplanets.cpp</in>
+            <in>Exoplanets.hpp</in>
+            <in>qrc_Exoplanets.cxx</in>
+            <in>ui_exoplanetsDialog.h</in>
+          </df>
+        </df>
+        <df name="KeplerMission">
+          <df name="src">
+            <df name="gui">
+              <in>KeplerMissionDialog.cpp</in>
+              <in>KeplerMissionDialog.hpp</in>
+            </df>
+            <in>KeplerMission.cpp</in>
+            <in>KeplerMission.hpp</in>
+            <in>qrc_KeplerMission.cxx</in>
+            <in>ui_KeplerMissionDialog.h</in>
+          </df>
+        </df>
+        <df name="Oculars">
+          <df name="src">
+            <df name="gui">
+              <in>OcularDialog.cpp</in>
+              <in>OcularDialog.hpp</in>
+              <in>OcularsGuiPanel.cpp</in>
+              <in>OcularsGuiPanel.hpp</in>
+              <in>PropertyBasedTableModel.cpp</in>
+              <in>PropertyBasedTableModel.hpp</in>
+            </df>
+            <in>CCD.cpp</in>
+            <in>CCD.hpp</in>
+            <in>Ocular.cpp</in>
+            <in>Ocular.hpp</in>
+            <in>Oculars.cpp</in>
+            <in>Oculars.hpp</in>
+            <in>Telescope.cpp</in>
+            <in>Telescope.hpp</in>
+            <in>qrc_Oculars.cxx</in>
+            <in>ui_ocularDialog.h</in>
+          </df>
+        </df>
+        <df name="Pulsars">
+          <df name="src">
+            <df name="gui">
+              <in>PulsarsDialog.cpp</in>
+              <in>PulsarsDialog.hpp</in>
+            </df>
+            <in>Pulsar.cpp</in>
+            <in>Pulsar.hpp</in>
+            <in>Pulsars.cpp</in>
+            <in>Pulsars.hpp</in>
+            <in>qrc_Pulsars.cxx</in>
+            <in>ui_pulsarsDialog.h</in>
+          </df>
+        </df>
+        <df name="Quasars">
+          <df name="src">
+            <df name="gui">
+              <in>QuasarsDialog.cpp</in>
+              <in>QuasarsDialog.hpp</in>
+            </df>
+            <in>Quasar.cpp</in>
+            <in>Quasar.hpp</in>
+            <in>Quasars.cpp</in>
+            <in>Quasars.hpp</in>
+            <in>qrc_Quasars.cxx</in>
+            <in>ui_quasarsDialog.h</in>
+          </df>
+        </df>
+        <df name="Satellites">
+          <df name="src">
+            <df name="gsatellite">
+              <in>gException.hpp</in>
+              <in>gSatTEME.cpp</in>
+              <in>gSatTEME.hpp</in>
+              <in>gTime.cpp</in>
+              <in>gTime.hpp</in>
+              <in>gTimeSpan.cpp</in>
+              <in>gVector.cpp</in>
+              <in>gVector.hpp</in>
+              <in>gVectorTempl.hpp</in>
+              <in>mathUtils.cpp</in>
+              <in>mathUtils.hpp</in>
+              <in>sgp4ext.cpp</in>
+              <in>sgp4ext.h</in>
+              <in>sgp4io.cpp</in>
+              <in>sgp4io.h</in>
+              <in>sgp4unit.cpp</in>
+              <in>sgp4unit.h</in>
+              <in>stdsat.h</in>
+            </df>
+            <df name="gui">
+              <in>SatellitesDialog.cpp</in>
+              <in>SatellitesDialog.hpp</in>
+              <in>SatellitesImportDialog.cpp</in>
+              <in>SatellitesImportDialog.hpp</in>
+            </df>
+            <in>Satellite.cpp</in>
+            <in>Satellite.hpp</in>
+            <in>Satellites.cpp</in>
+            <in>Satellites.hpp</in>
+            <in>gSatWrapper.cpp</in>
+            <in>gSatWrapper.hpp</in>
+            <in>qrc_Satellites.cxx</in>
+            <in>ui_satellitesDialog.h</in>
+            <in>ui_satellitesImportDialog.h</in>
+          </df>
+        </df>
+        <df name="SolarSystemEditor">
+          <df name="src">
+            <df name="gui">
+              <in>ManualImportWindow.cpp</in>
+              <in>ManualImportWindow.hpp</in>
+              <in>MpcImportWindow.cpp</in>
+              <in>MpcImportWindow.hpp</in>
+              <in>SolarSystemManagerWindow.cpp</in>
+              <in>SolarSystemManagerWindow.hpp</in>
+            </df>
+            <in>SolarSystemEditor.cpp</in>
+            <in>SolarSystemEditor.hpp</in>
+            <in>ui_manualImportWindow.h</in>
+            <in>ui_mpcImportWindow.h</in>
+          </df>
+        </df>
+        <df name="Supernovae">
+          <df name="src">
+            <df name="gui">
+              <in>SupernovaeDialog.cpp</in>
+              <in>SupernovaeDialog.hpp</in>
+            </df>
+            <in>Supernova.cpp</in>
+            <in>Supernova.hpp</in>
+            <in>Supernovae.cpp</in>
+            <in>Supernovae.hpp</in>
+            <in>qrc_Supernovae.cxx</in>
+            <in>ui_supernovaeDialog.h</in>
+          </df>
+        </df>
+        <df name="TelescopeControl">
+          <df name="src">
+            <df name="clients">
+              <in>InterpolatedPosition.cpp</in>
+              <in>InterpolatedPosition.hpp</in>
+              <in>TelescopeClient.cpp</in>
+              <in>TelescopeClient.hpp</in>
+              <in>TelescopeClientDirectLx200.cpp</in>
+              <in>TelescopeClientDirectLx200.hpp</in>
+              <in>TelescopeClientDirectNexStar.cpp</in>
+              <in>TelescopeClientDirectNexStar.hpp</in>
+            </df>
+            <df name="gui">
+              <in>SlewDialog.cpp</in>
+              <in>SlewDialog.hpp</in>
+              <in>TelescopeConfigurationDialog.cpp</in>
+              <in>TelescopeConfigurationDialog.hpp</in>
+              <in>TelescopeDialog.cpp</in>
+              <in>TelescopeDialog.hpp</in>
+            </df>
+            <df name="servers">
+              <in>Connection.cpp</in>
+              <in>Connection.hpp</in>
+              <in>LogFile.cpp</in>
+              <in>LogFile.hpp</in>
+              <in>Lx200Command.cpp</in>
+              <in>Lx200Command.hpp</in>
+              <in>Lx200Connection.cpp</in>
+              <in>Lx200Connection.hpp</in>
+              <in>NexStarCommand.cpp</in>
+              <in>NexStarCommand.hpp</in>
+              <in>NexStarConnection.cpp</in>
+              <in>NexStarConnection.hpp</in>
+              <in>SerialPort.cpp</in>
+              <in>SerialPort.hpp</in>
+              <in>Server.cpp</in>
+              <in>Server.hpp</in>
+              <in>Socket.cpp</in>
+              <in>Socket.hpp</in>
+            </df>
+            <in>TelescopeControl.cpp</in>
+            <in>TelescopeControl.hpp</in>
+            <in>TelescopeControlGlobals.hpp</in>
+            <in>qrc_TelescopeControl.cxx</in>
+            <in>ui_slewDialog.h</in>
+            <in>ui_telescopeConfigurationDialog.h</in>
+            <in>ui_telescopeDialog.h</in>
+          </df>
+        </df>
+        <df name="TextUserInterface">
+          <df name="src">
+            <in>DummyDialog.cpp</in>
+            <in>DummyDialog.hpp</in>
+            <in>TextUserInterface.cpp</in>
+            <in>TextUserInterface.hpp</in>
+            <in>TuiNode.cpp</in>
+            <in>TuiNode.hpp</in>
+            <in>TuiNodeActivate.cpp</in>
+            <in>TuiNodeActivate.hpp</in>
+            <in>TuiNodeBool.cpp</in>
+            <in>TuiNodeBool.hpp</in>
+            <in>TuiNodeColor.cpp</in>
+            <in>TuiNodeColor.hpp</in>
+            <in>TuiNodeDateTime.cpp</in>
+            <in>TuiNodeDateTime.hpp</in>
+            <in>TuiNodeDouble.cpp</in>
+            <in>TuiNodeDouble.hpp</in>
+            <in>TuiNodeEditable.cpp</in>
+            <in>TuiNodeEditable.hpp</in>
+            <in>TuiNodeEnum.cpp</in>
+            <in>TuiNodeEnum.hpp</in>
+            <in>TuiNodeFloat.cpp</in>
+            <in>TuiNodeFloat.hpp</in>
+            <in>TuiNodeInt.cpp</in>
+            <in>TuiNodeInt.hpp</in>
+          </df>
+        </df>
+        <df name="TimeZoneConfiguration">
+          <df name="src">
+            <df name="gui">
+              <in>DefineTimeZoneWindow.cpp</in>
+              <in>DefineTimeZoneWindow.hpp</in>
+              <in>TimeZoneConfigurationWindow.cpp</in>
+              <in>TimeZoneConfigurationWindow.hpp</in>
+            </df>
+            <in>TimeZoneConfiguration.cpp</in>
+            <in>TimeZoneConfiguration.hpp</in>
+          </df>
+        </df>
+      </df>
+      <df name="src">
+        <df name="core">
+          <df name="external">
+            <df name="glues_stel">
+              <df name="source">
+                <df name="libtess">
+                  <in>dict-list.h</in>
+                  <in>dict.c</in>
+                  <in>dict.h</in>
+                  <in>geom.c</in>
+                  <in>geom.h</in>
+                  <in>memalloc.c</in>
+                  <in>memalloc.h</in>
+                  <in>mesh.c</in>
+                  <in>mesh.h</in>
+                  <in>normal.c</in>
+                  <in>normal.h</in>
+                  <in>priorityq-heap.h</in>
+                  <in>priorityq-heap.i</in>
+                  <in>priorityq-sort.h</in>
+                  <in>priorityq.c</in>
+                  <in>priorityq.h</in>
+                  <in>render.c</in>
+                  <in>render.h</in>
+                  <in>sweep.c</in>
+                  <in>sweep.h</in>
+                  <in>tess.c</in>
+                  <in>tess.h</in>
+                  <in>tessmono.c</in>
+                  <in>tessmono.h</in>
+                </df>
+                <in>glues.h</in>
+                <in>glues_error.c</in>
+                <in>glues_error.h</in>
+              </df>
+            </df>
+            <df name="kfilter">
+              <in>karchive.cpp</in>
+              <in>karchive.h</in>
+              <in>kfilterbase.cpp</in>
+              <in>kfilterbase.h</in>
+              <in>kfilterdev.cpp</in>
+              <in>kfilterdev.h</in>
+              <in>kgzipfilter.cpp</in>
+              <in>kgzipfilter.h</in>
+              <in>klimitediodevice.cpp</in>
+              <in>klimitediodevice.h</in>
+              <in>kzip.cpp</in>
+              <in>kzip.h</in>
+            </df>
+            <in>GLee.c</in>
+            <in>GLee.h</in>
+            <in>fixx11h.h</in>
+            <in>gettext.h</in>
+          </df>
+          <df name="modules">
+            <in>Atmosphere.cpp</in>
+            <in>Atmosphere.hpp</in>
+            <in>Comet.cpp</in>
+            <in>Comet.hpp</in>
+            <in>Constellation.cpp</in>
+            <in>Constellation.hpp</in>
+            <in>ConstellationMgr.cpp</in>
+            <in>ConstellationMgr.hpp</in>
+            <in>GridLinesMgr.cpp</in>
+            <in>GridLinesMgr.hpp</in>
+            <in>LabelMgr.cpp</in>
+            <in>LabelMgr.hpp</in>
+            <in>Landscape.cpp</in>
+            <in>Landscape.hpp</in>
+            <in>LandscapeMgr.cpp</in>
+            <in>LandscapeMgr.hpp</in>
+            <in>Meteor.cpp</in>
+            <in>Meteor.hpp</in>
+            <in>MeteorMgr.cpp</in>
+            <in>MeteorMgr.hpp</in>
+            <in>MilkyWay.cpp</in>
+            <in>MilkyWay.hpp</in>
+            <in>MinorPlanet.cpp</in>
+            <in>MinorPlanet.hpp</in>
+            <in>Nebula.cpp</in>
+            <in>Nebula.hpp</in>
+            <in>NebulaMgr.cpp</in>
+            <in>NebulaMgr.hpp</in>
+            <in>Orbit.cpp</in>
+            <in>Orbit.hpp</in>
+            <in>Planet.cpp</in>
+            <in>Planet.hpp</in>
+            <in>Skybright.cpp</in>
+            <in>Skybright.hpp</in>
+            <in>Skylight.cpp</in>
+            <in>Skylight.hpp</in>
+            <in>SolarSystem.cpp</in>
+            <in>SolarSystem.hpp</in>
+            <in>Solve.hpp</in>
+            <in>Star.cpp</in>
+            <in>Star.hpp</in>
+            <in>StarMgr.cpp</in>
+            <in>StarMgr.hpp</in>
+            <in>StarWrapper.cpp</in>
+            <in>StarWrapper.hpp</in>
+            <in>ZoneArray.cpp</in>
+            <in>ZoneArray.hpp</in>
+            <in>ZoneData.hpp</in>
+          </df>
+          <df name="planetsephems">
+            <in>calc_interpolated_elements.c</in>
+            <in>calc_interpolated_elements.h</in>
+            <in>elliptic_to_rectangular.c</in>
+            <in>elliptic_to_rectangular.h</in>
+            <in>elp82b.c</in>
+            <in>elp82b.h</in>
+            <in>gust86.c</in>
+            <in>gust86.h</in>
+            <in>l1.c</in>
+            <in>l1.h</in>
+            <in>marssat.c</in>
+            <in>marssat.h</in>
+            <in>pluto.c</in>
+            <in>pluto.h</in>
+            <in>sideral_time.c</in>
+            <in>sideral_time.h</in>
+            <in>stellplanet.c</in>
+            <in>stellplanet.h</in>
+            <in>tass17.c</in>
+            <in>tass17.h</in>
+            <in>vsop87.c</in>
+            <in>vsop87.h</in>
+          </df>
+          <in>MultiLevelJsonBase.cpp</in>
+          <in>MultiLevelJsonBase.hpp</in>
+          <in>OctahedronPolygon.cpp</in>
+          <in>OctahedronPolygon.hpp</in>
+          <in>RefractionExtinction.cpp</in>
+          <in>RefractionExtinction.hpp</in>
+          <in>SimbadSearcher.cpp</in>
+          <in>SimbadSearcher.hpp</in>
+          <in>SphericMirrorCalculator.cpp</in>
+          <in>SphericMirrorCalculator.hpp</in>
+          <in>StelApp.cpp</in>
+          <in>StelApp.hpp</in>
+          <in>StelAppGraphicsWidget.cpp</in>
+          <in>StelAppGraphicsWidget.hpp</in>
+          <in>StelAudioMgr.cpp</in>
+          <in>StelAudioMgr.hpp</in>
+          <in>StelCore.cpp</in>
+          <in>StelCore.hpp</in>
+          <in>StelFader.hpp</in>
+          <in>StelFileMgr.cpp</in>
+          <in>StelFileMgr.hpp</in>
+          <in>StelGeodesicGrid.cpp</in>
+          <in>StelGeodesicGrid.hpp</in>
+          <in>StelGuiBase.cpp</in>
+          <in>StelGuiBase.hpp</in>
+          <in>StelIniParser.cpp</in>
+          <in>StelIniParser.hpp</in>
+          <in>StelJsonParser.cpp</in>
+          <in>StelJsonParser.hpp</in>
+          <in>StelLoadingBar.cpp</in>
+          <in>StelLoadingBar.hpp</in>
+          <in>StelLocaleMgr.cpp</in>
+          <in>StelLocaleMgr.hpp</in>
+          <in>StelLocation.cpp</in>
+          <in>StelLocation.hpp</in>
+          <in>StelLocationMgr.cpp</in>
+          <in>StelLocationMgr.hpp</in>
+          <in>StelModule.cpp</in>
+          <in>StelModule.hpp</in>
+          <in>StelModuleMgr.cpp</in>
+          <in>StelModuleMgr.hpp</in>
+          <in>StelMovementMgr.cpp</in>
+          <in>StelMovementMgr.hpp</in>
+          <in>StelObject.cpp</in>
+          <in>StelObject.hpp</in>
+          <in>StelObjectMgr.cpp</in>
+          <in>StelObjectMgr.hpp</in>
+          <in>StelObjectModule.cpp</in>
+          <in>StelObjectModule.hpp</in>
+          <in>StelObjectType.hpp</in>
+          <in>StelObserver.cpp</in>
+          <in>StelObserver.hpp</in>
+          <in>StelPainter.cpp</in>
+          <in>StelPainter.hpp</in>
+          <in>StelPluginInterface.hpp</in>
+          <in>StelProjector.cpp</in>
+          <in>StelProjector.hpp</in>
+          <in>StelProjectorClasses.cpp</in>
+          <in>StelProjectorClasses.hpp</in>
+          <in>StelProjectorType.hpp</in>
+          <in>StelRegionObject.hpp</in>
+          <in>StelSkyCultureMgr.cpp</in>
+          <in>StelSkyCultureMgr.hpp</in>
+          <in>StelSkyDrawer.cpp</in>
+          <in>StelSkyDrawer.hpp</in>
+          <in>StelSkyImageTile.cpp</in>
+          <in>StelSkyImageTile.hpp</in>
+          <in>StelSkyLayer.cpp</in>
+          <in>StelSkyLayer.hpp</in>
+          <in>StelSkyLayerMgr.cpp</in>
+          <in>StelSkyLayerMgr.hpp</in>
+          <in>StelSkyPolygon.cpp</in>
+          <in>StelSkyPolygon.hpp</in>
+          <in>StelSphereGeometry.cpp</in>
+          <in>StelSphereGeometry.hpp</in>
+          <in>StelSphericalIndex.cpp</in>
+          <in>StelSphericalIndex.hpp</in>
+          <in>StelTexture.cpp</in>
+          <in>StelTexture.hpp</in>
+          <in>StelTextureMgr.cpp</in>
+          <in>StelTextureMgr.hpp</in>
+          <in>StelTextureTypes.hpp</in>
+          <in>StelToneReproducer.cpp</in>
+          <in>StelToneReproducer.hpp</in>
+          <in>StelTranslator.cpp</in>
+          <in>StelTranslator.hpp</in>
+          <in>StelUtils.cpp</in>
+          <in>StelUtils.hpp</in>
+          <in>StelVertexArray.cpp</in>
+          <in>StelVertexArray.hpp</in>
+          <in>StelVideoMgr.cpp</in>
+          <in>StelVideoMgr.hpp</in>
+          <in>StelViewportEffect.cpp</in>
+          <in>StelViewportEffect.hpp</in>
+          <in>TrailGroup.cpp</in>
+          <in>TrailGroup.hpp</in>
+          <in>VecMath.hpp</in>
+        </df>
+        <df name="gui">
+          <in>AddRemoveLandscapesDialog.cpp</in>
+          <in>AddRemoveLandscapesDialog.hpp</in>
+          <in>AngleSpinBox.cpp</in>
+          <in>AngleSpinBox.hpp</in>
+          <in>AtmosphereDialog.cpp</in>
+          <in>AtmosphereDialog.hpp</in>
+          <in>ConfigurationDialog.cpp</in>
+          <in>ConfigurationDialog.hpp</in>
+          <in>DateTimeDialog.cpp</in>
+          <in>DateTimeDialog.hpp</in>
+          <in>Dialog.cpp</in>
+          <in>Dialog.hpp</in>
+          <in>HelpDialog.cpp</in>
+          <in>HelpDialog.hpp</in>
+          <in>LocationDialog.cpp</in>
+          <in>LocationDialog.hpp</in>
+          <in>MapLabel.cpp</in>
+          <in>MapLabel.hpp</in>
+          <in>ScriptConsole.cpp</in>
+          <in>ScriptConsole.hpp</in>
+          <in>SearchDialog.cpp</in>
+          <in>SearchDialog.hpp</in>
+          <in>SkyGui.cpp</in>
+          <in>SkyGui.hpp</in>
+          <in>StelDialog.cpp</in>
+          <in>StelDialog.hpp</in>
+          <in>StelGui.cpp</in>
+          <in>StelGui.hpp</in>
+          <in>StelGuiItems.cpp</in>
+          <in>StelGuiItems.hpp</in>
+          <in>StelScriptSyntaxHighlighter.cpp</in>
+          <in>StelScriptSyntaxHighlighter.hpp</in>
+          <in>StelStyle.hpp</in>
+          <in>ViewDialog.cpp</in>
+          <in>ViewDialog.hpp</in>
+        </df>
+        <df name="scripting">
+          <in>ScreenImageMgr.cpp</in>
+          <in>ScreenImageMgr.hpp</in>
+          <in>StelMainScriptAPI.cpp</in>
+          <in>StelMainScriptAPI.hpp</in>
+          <in>StelMainScriptAPIProxy.cpp</in>
+          <in>StelMainScriptAPIProxy.hpp</in>
+          <in>StelScriptMgr.cpp</in>
+          <in>StelScriptMgr.hpp</in>
+          <in>StratoscriptPreprocessor.cpp</in>
+        </df>
+        <in>CLIProcessor.cpp</in>
+        <in>CLIProcessor.hpp</in>
+        <in>StelLogger.cpp</in>
+        <in>StelLogger.hpp</in>
+        <in>StelMainGraphicsView.cpp</in>
+        <in>StelMainGraphicsView.hpp</in>
+        <in>StelMainWindow.cpp</in>
+        <in>StelMainWindow.hpp</in>
+        <in>main.cpp</in>
+        <in>qrc_guiRes.cxx</in>
+        <in>qrc_mainRes.cxx</in>
+        <in>ui_AtmosphereDialog.h</in>
+        <in>ui_addRemoveLandscapesDialog.h</in>
+        <in>ui_configurationDialog.h</in>
+        <in>ui_dateTimeDialogGui.h</in>
+        <in>ui_helpDialogGui.h</in>
+        <in>ui_locationDialogGui.h</in>
+        <in>ui_scriptConsole.h</in>
+        <in>ui_searchDialogGui.h</in>
+        <in>ui_viewDialog.h</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>CMakeLists.txt</itemPath>
+      <itemPath>Makefile</itemPath>
+      <itemPath>Makefile-stellarium-0.11.4.mk</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile-stellarium-0.11.4.mk</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>GNU|GNU</compilerSet>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>builds/unix</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+          <cTool>
+            <incDir>
+              <pElem>/usr/include/qt4</pElem>
+              <pElem>/usr/include/qt4/QtOpenGL</pElem>
+              <pElem>/usr/include/qt4/QtScript</pElem>
+              <pElem>/usr/include/qt4/QtGui</pElem>
+              <pElem>/usr/include/qt4/QtTest</pElem>
+              <pElem>/usr/include/qt4/QtNetwork</pElem>
+              <pElem>/usr/include/qt4/QtCore</pElem>
+              <pElem>builds/unix</pElem>
+              <pElem>src</pElem>
+              <pElem>src/core</pElem>
+              <pElem>src/core/modules</pElem>
+              <pElem>src/core/planetsephems</pElem>
+              <pElem>src/core/external</pElem>
+              <pElem>src/core/external/kfilter</pElem>
+              <pElem>src/core/external/glues_stel/source</pElem>
+              <pElem>src/core/external/glues_stel/source/libtess</pElem>
+              <pElem>src/gui</pElem>
+              <pElem>src/scripting</pElem>
+              <pElem>builds/unix/src</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>DEFAULT_GRAPHICS_SYSTEM="raster"</Elem>
+              <Elem>ENABLE_NLS</Elem>
+              <Elem>ENABLE_SCRIPT_CONSOLE</Elem>
+              <Elem>HAVE_POW10</Elem>
+              <Elem>INSTALL_DATADIR="/usr/local/share/stellarium"</Elem>
+              <Elem>INSTALL_LOCALEDIR="/usr/local/share/locale"</Elem>
+              <Elem>NDEBUG</Elem>
+              <Elem>PACKAGE_VERSION="0.11.4"</Elem>
+              <Elem>QT_CORE_LIB</Elem>
+              <Elem>QT_GUI_LIB</Elem>
+              <Elem>QT_NETWORK_LIB</Elem>
+              <Elem>QT_NO_DEBUG</Elem>
+              <Elem>QT_OPENGL_LIB</Elem>
+              <Elem>QT_SCRIPT_LIB</Elem>
+              <Elem>QT_TEST_LIB</Elem>
+              <Elem>STELLARIUM_SPLASH="Release"</Elem>
+              <Elem>USE_STATIC_PLUGIN_ANGLEMEASURE</Elem>
+              <Elem>USE_STATIC_PLUGIN_COMPASSMARKS</Elem>
+              <Elem>USE_STATIC_PLUGIN_EXOPLANETS</Elem>
+              <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+              <Elem>USE_STATIC_PLUGIN_OCULARS</Elem>
+              <Elem>USE_STATIC_PLUGIN_PULSARS</Elem>
+              <Elem>USE_STATIC_PLUGIN_QUASARS</Elem>
+              <Elem>USE_STATIC_PLUGIN_SATELLITES</Elem>
+              <Elem>USE_STATIC_PLUGIN_SOLARSYSTEMEDITOR</Elem>
+              <Elem>USE_STATIC_PLUGIN_SUPERNOVAE</Elem>
+              <Elem>USE_STATIC_PLUGIN_TELESCOPECONTROL</Elem>
+              <Elem>USE_STATIC_PLUGIN_TEXTUSERINTERFACE</Elem>
+              <Elem>USE_STATIC_PLUGIN_TIMEZONECONFIGURATION</Elem>
+            </preprocessorList>
+          </cTool>
+          <ccTool>
+            <preprocessorList>
+              <Elem>DEFAULT_GRAPHICS_SYSTEM="raster"</Elem>
+              <Elem>ENABLE_NLS</Elem>
+              <Elem>ENABLE_SCRIPT_CONSOLE</Elem>
+              <Elem>HAVE_POW10</Elem>
+              <Elem>INSTALL_DATADIR="/usr/local/share/stellarium"</Elem>
+              <Elem>INSTALL_LOCALEDIR="/usr/local/share/locale"</Elem>
+              <Elem>PACKAGE_VERSION="0.11.4"</Elem>
+              <Elem>QT_CORE_LIB</Elem>
+              <Elem>QT_GUI_LIB</Elem>
+              <Elem>QT_NETWORK_LIB</Elem>
+              <Elem>QT_OPENGL_LIB</Elem>
+              <Elem>QT_SCRIPT_LIB</Elem>
+              <Elem>QT_TEST_LIB</Elem>
+              <Elem>STELLARIUM_SPLASH="Release"</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="builds/unix/plugins/AngleMeasure/src/moc_AngleMeasure.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/AngleMeasure/src/qrc_AngleMeasure.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/CompassMarks/src/moc_CompassMarks.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/CompassMarks/src/qrc_CompassMarks.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/Exoplanets/src/gui/moc_ExoplanetsDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/Exoplanets/src/moc_Exoplanets.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/Exoplanets/src/qrc_Exoplanets.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/KeplerMission/src/gui/moc_KeplerMissionDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/KeplerMission/src/moc_KeplerMission.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/plugins/KeplerMission/src/qrc_KeplerMission.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/gui/moc_OcularDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/gui/moc_OcularsGuiPanel.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/gui/moc_PropertyBasedTableModel.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/moc_CCD.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/moc_Ocular.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/moc_Oculars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/moc_Telescope.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Oculars/src/qrc_Oculars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Pulsars/src/gui/moc_PulsarsDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Pulsars/src/moc_Pulsars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Pulsars/src/qrc_Pulsars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Quasars/src/gui/moc_QuasarsDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Quasars/src/moc_Quasars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Quasars/src/qrc_Quasars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Satellites/src/gui/moc_SatellitesDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Satellites/src/gui/moc_SatellitesImportDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Satellites/src/moc_Satellites.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Satellites/src/qrc_Satellites.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/SolarSystemEditor/src/gui/moc_ManualImportWindow.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/SolarSystemEditor/src/gui/moc_MpcImportWindow.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/SolarSystemEditor/src/gui/moc_SolarSystemManagerWindow.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/SolarSystemEditor/src/moc_SolarSystemEditor.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Supernovae/src/gui/moc_SupernovaeDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Supernovae/src/moc_Supernovae.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/Supernovae/src/qrc_Supernovae.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/clients/moc_TelescopeClient.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/clients/moc_TelescopeClientDirectLx200.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/clients/moc_TelescopeClientDirectNexStar.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/gui/moc_SlewDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/gui/moc_TelescopeConfigurationDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/gui/moc_TelescopeDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/moc_TelescopeControl.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TelescopeControl/src/qrc_TelescopeControl.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_DummyDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TextUserInterface.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNode.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeActivate.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeBool.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeColor.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeDateTime.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeDouble.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeEditable.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeEnum.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeFloat.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TextUserInterface/src/moc_TuiNodeInt.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TimeZoneConfiguration/src/gui/moc_DefineTimeZoneWindow.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TimeZoneConfiguration/src/gui/moc_TimeZoneConfigurationWindow.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/plugins/TimeZoneConfiguration/src/moc_TimeZoneConfiguration.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_MultiLevelJsonBase.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_SimbadSearcher.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelApp.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelAppGraphicsWidget.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelAudioMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelCore.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelLocationMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelModuleMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelMovementMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelObjectMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelObserver.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelSkyCultureMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelSkyDrawer.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelSkyImageTile.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelSkyLayer.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelSkyLayerMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelSkyPolygon.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelTexture.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/moc_StelVideoMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_ConstellationMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_GridLinesMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_LabelMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_LandscapeMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_MeteorMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_MilkyWay.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_NebulaMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_SolarSystem.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/core/modules/moc_StarMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/gui/moc_AddRemoveLandscapesDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_AngleSpinBox.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_AtmosphereDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_ConfigurationDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_DateTimeDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_Dialog.cxx" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_HelpDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_LocationDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_MapLabel.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_ScriptConsole.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_SearchDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_SkyGui.cxx" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_StelDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_StelGui.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_StelGuiItems.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_StelScriptSyntaxHighlighter.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/gui/moc_ViewDialog.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="builds/unix/src/moc_StelMainGraphicsView.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/moc_StelMainWindow.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/qrc_guiRes.cxx" ex="false" tool="1" flavor2="0">
+        <ccTool>
+          <preprocessorList>
+            <Elem>QT_STATICPLUGIN</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/qrc_mainRes.cxx" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/scripting/moc_ScreenImageMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/scripting/moc_StelMainScriptAPI.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/scripting/moc_StelMainScriptAPIProxy.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="builds/unix/src/scripting/moc_StelScriptMgr.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <folder path="stellarium-0.11.4/builds">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins">
+        <ccTool>
+          <preprocessorList>
+            <Elem>QT_DLL</Elem>
+            <Elem>QT_PLUGIN</Elem>
+            <Elem>QT_STATICPLUGIN</Elem>
+            <Elem>_REENTRANT</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/AngleMeasure">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/AngleMeasure/src</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/CompassMarks">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/CompassMarks/src</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/Exoplanets">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Exoplanets/src</pElem>
+            <pElem>plugins/Exoplanets/src/gui</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>EXOPLANETS_PLUGIN_VERSION="0.1.2"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/KeplerMission">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/KeplerMission/src</pElem>
+            <pElem>plugins/KeplerMission/src/gui</pElem>
+            <pElem>builds/unix/plugins/KeplerMission/src</pElem>
+            <pElem>builds/unix/plugins/KeplerMission/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>KEPLERMISSION_PLUGIN_VERSION="0.0.2"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/Oculars">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Oculars/src</pElem>
+            <pElem>plugins/Oculars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Oculars/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>OCULARS_PLUGIN_VERSION="0.99.2"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/Pulsars">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Pulsars/src</pElem>
+            <pElem>plugins/Pulsars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>PULSARS_PLUGIN_VERSION="0.2.1"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/Quasars">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Quasars/src</pElem>
+            <pElem>plugins/Quasars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Quasars/src</pElem>
+            <pElem>builds/unix/plugins/Quasars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>QUASARS_PLUGIN_VERSION="0.1.4"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/Satellites">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Satellites/src</pElem>
+            <pElem>plugins/Satellites/src/gsatellite</pElem>
+            <pElem>plugins/Satellites/src/gui</pElem>
+            <pElem>builds/unix/plugins/Satellites/src</pElem>
+            <pElem>builds/unix/plugins/Satellites/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>SATELLITES_PLUGIN_VERSION="0.7.2"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/SolarSystemEditor">
+        <ccTool>
+          <incDir>
+            <pElem>builds/unix/plugins/SolarSystemEditor/src</pElem>
+            <pElem>builds/unix/plugins/SolarSystemEditor/src/gui</pElem>
+            <pElem>plugins/SolarSystemEditor/src</pElem>
+            <pElem>plugins/SolarSystemEditor/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>SOLARSYSTEMEDITOR_VERSION="0.1.1"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/Supernovae">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Supernovae/src</pElem>
+            <pElem>plugins/Supernovae/src/gui</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>SUPERNOVAE_PLUGIN_VERSION="0.2.11"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/TelescopeControl">
+        <ccTool>
+          <incDir>
+            <pElem>builds/unix/plugins/TelescopeControl/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/gui</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/servers</pElem>
+            <pElem>plugins/TelescopeControl/src</pElem>
+            <pElem>plugins/TelescopeControl/src/gui</pElem>
+            <pElem>plugins/TelescopeControl/src/clients</pElem>
+            <pElem>plugins/TelescopeControl/src/servers</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>DEBUG3</Elem>
+            <Elem>DEBUG4</Elem>
+            <Elem>DEBUG5</Elem>
+            <Elem>TELESCOPE_CONTROL_VERSION="0.2.3"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/TextUserInterface">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/TextUserInterface/src</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/plugins/TimeZoneConfiguration">
+        <ccTool>
+          <incDir>
+            <pElem>builds/unix/plugins/TimeZoneConfiguration/src</pElem>
+            <pElem>builds/unix/plugins/TimeZoneConfiguration/src/gui</pElem>
+            <pElem>plugins/TimeZoneConfiguration/src</pElem>
+            <pElem>plugins/TimeZoneConfiguration/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>TIME_ZONE_CONFIGURATION_VERSION="0.0.3"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/src">
+        <ccTool>
+          <preprocessorList>
+            <Elem>USE_STATIC_PLUGIN_ANGLEMEASURE</Elem>
+            <Elem>USE_STATIC_PLUGIN_COMPASSMARKS</Elem>
+            <Elem>USE_STATIC_PLUGIN_EXOPLANETS</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+            <Elem>USE_STATIC_PLUGIN_OCULARS</Elem>
+            <Elem>USE_STATIC_PLUGIN_PULSARS</Elem>
+            <Elem>USE_STATIC_PLUGIN_QUASARS</Elem>
+            <Elem>USE_STATIC_PLUGIN_SATELLITES</Elem>
+            <Elem>USE_STATIC_PLUGIN_SOLARSYSTEMEDITOR</Elem>
+            <Elem>USE_STATIC_PLUGIN_SUPERNOVAE</Elem>
+            <Elem>USE_STATIC_PLUGIN_TELESCOPECONTROL</Elem>
+            <Elem>USE_STATIC_PLUGIN_TEXTUSERINTERFACE</Elem>
+            <Elem>USE_STATIC_PLUGIN_TIMEZONECONFIGURATION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/builds/unix/src/gui">
+        <ccTool>
+          <preprocessorList>
+            <Elem>QT_STATICPLUGIN</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins">
+        <ccTool>
+          <preprocessorList>
+            <Elem>QT_DLL</Elem>
+            <Elem>QT_PLUGIN</Elem>
+            <Elem>QT_STATICPLUGIN</Elem>
+            <Elem>_REENTRANT</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/AngleMeasure">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/AngleMeasure/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/CompassMarks">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/CompassMarks/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Exoplanets">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>EXOPLANETS_PLUGIN_VERSION="0.1.2"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Exoplanets/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Exoplanets/src</pElem>
+            <pElem>plugins/Exoplanets/src/gui</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/KeplerMission">
+        <ccTool>
+          <incDir>
+            <pElem>src/core</pElem>
+            <pElem>plugins/KeplerMission/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/KeplerMission/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/KeplerMission/src/gui</pElem>
+            <pElem>builds/unix/plugins/KeplerMission/src</pElem>
+            <pElem>builds/unix/plugins/KeplerMission/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>KEPLERMISSION_PLUGIN_VERSION="0.0.2"</Elem>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Oculars">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Oculars/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>OCULARS_PLUGIN_VERSION="0.99.2"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Oculars/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Oculars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Oculars/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Pulsars">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Pulsars/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>PULSARS_PLUGIN_VERSION="0.2.1"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Pulsars/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Pulsars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Quasars">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Quasars/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>QUASARS_PLUGIN_VERSION="0.1.4"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Quasars/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Quasars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Quasars/src</pElem>
+            <pElem>builds/unix/plugins/Quasars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Satellites">
+        <ccTool>
+          <preprocessorList>
+            <Elem>SATELLITES_PLUGIN_VERSION="0.7.2"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Satellites/src/gsatellite">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Satellites/src</pElem>
+            <pElem>plugins/Satellites/src/gsatellite</pElem>
+            <pElem>plugins/Satellites/src/gui</pElem>
+            <pElem>builds/unix/plugins/Satellites/src</pElem>
+            <pElem>builds/unix/plugins/Satellites/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Satellites/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Satellites/src</pElem>
+            <pElem>plugins/Satellites/src/gsatellite</pElem>
+            <pElem>plugins/Satellites/src/gui</pElem>
+            <pElem>builds/unix/plugins/Satellites/src</pElem>
+            <pElem>builds/unix/plugins/Satellites/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/SolarSystemEditor">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>builds/unix/plugins/SolarSystemEditor/src</pElem>
+            <pElem>builds/unix/plugins/SolarSystemEditor/src/gui</pElem>
+            <pElem>plugins/SolarSystemEditor/src</pElem>
+            <pElem>plugins/SolarSystemEditor/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>SOLARSYSTEMEDITOR_VERSION="0.1.1"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Supernovae">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Supernovae/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>SUPERNOVAE_PLUGIN_VERSION="0.2.11"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/Supernovae/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Supernovae/src/gui</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/TelescopeControl">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>DEBUG3</Elem>
+            <Elem>DEBUG4</Elem>
+            <Elem>DEBUG5</Elem>
+            <Elem>TELESCOPE_CONTROL_VERSION="0.2.3"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/TelescopeControl/src/clients">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/gui</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/servers</pElem>
+            <pElem>plugins/TelescopeControl/src</pElem>
+            <pElem>plugins/TelescopeControl/src/gui</pElem>
+            <pElem>plugins/TelescopeControl/src/clients</pElem>
+            <pElem>plugins/TelescopeControl/src/servers</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/TelescopeControl/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/gui</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/servers</pElem>
+            <pElem>plugins/TelescopeControl/src</pElem>
+            <pElem>plugins/TelescopeControl/src/gui</pElem>
+            <pElem>plugins/TelescopeControl/src/clients</pElem>
+            <pElem>plugins/TelescopeControl/src/servers</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/TelescopeControl/src/servers">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/gui</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/servers</pElem>
+            <pElem>plugins/TelescopeControl/src</pElem>
+            <pElem>plugins/TelescopeControl/src/gui</pElem>
+            <pElem>plugins/TelescopeControl/src/clients</pElem>
+            <pElem>plugins/TelescopeControl/src/servers</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/TextUserInterface">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/TextUserInterface/src</pElem>
+            <pElem>builds/unix/plugins/TextUserInterface/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/plugins/TimeZoneConfiguration">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>builds/unix/plugins/TimeZoneConfiguration/src</pElem>
+            <pElem>builds/unix/plugins/TimeZoneConfiguration/src/gui</pElem>
+            <pElem>plugins/TimeZoneConfiguration/src</pElem>
+            <pElem>plugins/TimeZoneConfiguration/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>TIME_ZONE_CONFIGURATION_VERSION="0.0.3"</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/src">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>USE_STATIC_PLUGIN_ANGLEMEASURE</Elem>
+            <Elem>USE_STATIC_PLUGIN_COMPASSMARKS</Elem>
+            <Elem>USE_STATIC_PLUGIN_EXOPLANETS</Elem>
+            <Elem>USE_STATIC_PLUGIN_OCULARS</Elem>
+            <Elem>USE_STATIC_PLUGIN_PULSARS</Elem>
+            <Elem>USE_STATIC_PLUGIN_QUASARS</Elem>
+            <Elem>USE_STATIC_PLUGIN_SATELLITES</Elem>
+            <Elem>USE_STATIC_PLUGIN_SOLARSYSTEMEDITOR</Elem>
+            <Elem>USE_STATIC_PLUGIN_SUPERNOVAE</Elem>
+            <Elem>USE_STATIC_PLUGIN_TELESCOPECONTROL</Elem>
+            <Elem>USE_STATIC_PLUGIN_TEXTUSERINTERFACE</Elem>
+            <Elem>USE_STATIC_PLUGIN_TIMEZONECONFIGURATION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/src/core">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/src/gui">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>QT_STATICPLUGIN</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="stellarium-0.11.4/src/scripting">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <item path="plugins/AngleMeasure/src/AngleMeasure.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/AngleMeasure/src</pElem>
+            <pElem>builds/unix/plugins/AngleMeasure/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/AngleMeasure/src/AngleMeasure.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/AngleMeasure/src/qrc_AngleMeasure.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/AngleMeasure/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/CompassMarks/src/CompassMarks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/CompassMarks/src</pElem>
+            <pElem>builds/unix/plugins/CompassMarks/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/CompassMarks/src/CompassMarks.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/CompassMarks/src/qrc_CompassMarks.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/CompassMarks/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Exoplanets/src/Exoplanet.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Exoplanets/src</pElem>
+            <pElem>plugins/Exoplanets/src/gui</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Exoplanets/src/Exoplanet.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Exoplanets/src/Exoplanets.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Exoplanets/src</pElem>
+            <pElem>plugins/Exoplanets/src/gui</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src</pElem>
+            <pElem>builds/unix/plugins/Exoplanets/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Exoplanets/src/Exoplanets.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Exoplanets/src/gui/ExoplanetsDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Exoplanets/src/gui/ExoplanetsDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Exoplanets/src/qrc_Exoplanets.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>plugins/Exoplanets/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Exoplanets/src/ui_exoplanetsDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/KeplerMission/src/KeplerMission.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/KeplerMission/src</pElem>
+            <pElem>plugins/KeplerMission/src/gui</pElem>
+            <pElem>builds/unix/plugins/KeplerMission/src</pElem>
+            <pElem>builds/unix/plugins/KeplerMission/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>KEPLERMISSION_PLUGIN_VERSION="0.0.2"</Elem>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/KeplerMission/src/KeplerMission.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/KeplerMission/src/gui/KeplerMissionDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="plugins/KeplerMission/src/gui/KeplerMissionDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/KeplerMission/src/qrc_KeplerMission.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>src/core</pElem>
+            <pElem>plugins/KeplerMission/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/KeplerMission/src/ui_KeplerMissionDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/CCD.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Oculars/src</pElem>
+            <pElem>plugins/Oculars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Oculars/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/CCD.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/Ocular.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Oculars/src</pElem>
+            <pElem>plugins/Oculars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Oculars/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/Ocular.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/Oculars.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Oculars/src</pElem>
+            <pElem>plugins/Oculars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Oculars/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/Oculars.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/Telescope.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Oculars/src</pElem>
+            <pElem>plugins/Oculars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Oculars/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/Telescope.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/gui/OcularDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/gui/OcularDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/gui/OcularsGuiPanel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/gui/OcularsGuiPanel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/gui/PropertyBasedTableModel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/gui/PropertyBasedTableModel.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Oculars/src/qrc_Oculars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Oculars/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Oculars/src/ui_ocularDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Pulsars/src/Pulsar.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Pulsars/src</pElem>
+            <pElem>plugins/Pulsars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Pulsars/src/Pulsar.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Pulsars/src/Pulsars.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Pulsars/src</pElem>
+            <pElem>plugins/Pulsars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src</pElem>
+            <pElem>builds/unix/plugins/Pulsars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Pulsars/src/Pulsars.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Pulsars/src/gui/PulsarsDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Pulsars/src/gui/PulsarsDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Pulsars/src/qrc_Pulsars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Pulsars/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Pulsars/src/ui_pulsarsDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Quasars/src/Quasar.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Quasars/src</pElem>
+            <pElem>plugins/Quasars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Quasars/src</pElem>
+            <pElem>builds/unix/plugins/Quasars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Quasars/src/Quasar.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Quasars/src/Quasars.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Quasars/src</pElem>
+            <pElem>plugins/Quasars/src/gui</pElem>
+            <pElem>builds/unix/plugins/Quasars/src</pElem>
+            <pElem>builds/unix/plugins/Quasars/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Quasars/src/Quasars.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/Quasars/src/gui/QuasarsDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Quasars/src/gui/QuasarsDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Quasars/src/qrc_Quasars.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Quasars/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Quasars/src/ui_quasarsDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/Satellite.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Satellites/src</pElem>
+            <pElem>plugins/Satellites/src/gsatellite</pElem>
+            <pElem>plugins/Satellites/src/gui</pElem>
+            <pElem>builds/unix/plugins/Satellites/src</pElem>
+            <pElem>builds/unix/plugins/Satellites/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/Satellite.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/Satellites.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Satellites/src</pElem>
+            <pElem>plugins/Satellites/src/gsatellite</pElem>
+            <pElem>plugins/Satellites/src/gui</pElem>
+            <pElem>builds/unix/plugins/Satellites/src</pElem>
+            <pElem>builds/unix/plugins/Satellites/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/Satellites.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gSatWrapper.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Satellites/src</pElem>
+            <pElem>plugins/Satellites/src/gsatellite</pElem>
+            <pElem>plugins/Satellites/src/gui</pElem>
+            <pElem>builds/unix/plugins/Satellites/src</pElem>
+            <pElem>builds/unix/plugins/Satellites/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gSatWrapper.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gException.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gSatTEME.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gSatTEME.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gTime.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gTime.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gTimeSpan.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gVector.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gVector.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/gVectorTempl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/mathUtils.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/mathUtils.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/sgp4ext.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/sgp4ext.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/sgp4io.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/sgp4io.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/sgp4unit.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/sgp4unit.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gsatellite/stdsat.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gui/SatellitesDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gui/SatellitesDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/gui/SatellitesImportDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/gui/SatellitesImportDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/qrc_Satellites.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Satellites/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Satellites/src/ui_satellitesDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Satellites/src/ui_satellitesImportDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/SolarSystemEditor/src/SolarSystemEditor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/SolarSystemEditor/src/SolarSystemEditor.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/SolarSystemEditor/src/gui/ManualImportWindow.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/SolarSystemEditor/src/gui/ManualImportWindow.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/SolarSystemEditor/src/gui/MpcImportWindow.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/SolarSystemEditor/src/gui/MpcImportWindow.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/SolarSystemEditor/src/gui/SolarSystemManagerWindow.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/SolarSystemEditor/src/gui/SolarSystemManagerWindow.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/SolarSystemEditor/src/ui_manualImportWindow.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/SolarSystemEditor/src/ui_mpcImportWindow.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Supernovae/src/Supernova.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Supernovae/src</pElem>
+            <pElem>plugins/Supernovae/src/gui</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Supernovae/src/Supernova.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Supernovae/src/Supernovae.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>plugins/Supernovae/src</pElem>
+            <pElem>plugins/Supernovae/src/gui</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src</pElem>
+            <pElem>builds/unix/plugins/Supernovae/src/gui</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Supernovae/src/Supernovae.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Supernovae/src/gui/SupernovaeDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/Supernovae/src/gui/SupernovaeDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/Supernovae/src/qrc_Supernovae.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>plugins/Supernovae/src</pElem>
+            <pElem>/usr/include/qt4</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/Supernovae/src/ui_supernovaeDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/TelescopeControl.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/gui</pElem>
+            <pElem>builds/unix/plugins/TelescopeControl/src/servers</pElem>
+            <pElem>plugins/TelescopeControl/src</pElem>
+            <pElem>plugins/TelescopeControl/src/gui</pElem>
+            <pElem>plugins/TelescopeControl/src/clients</pElem>
+            <pElem>plugins/TelescopeControl/src/servers</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/TelescopeControl.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/TelescopeControlGlobals.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/InterpolatedPosition.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/InterpolatedPosition.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/TelescopeClient.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/TelescopeClient.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/TelescopeClientDirectLx200.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/TelescopeClientDirectLx200.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/TelescopeClientDirectNexStar.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/clients/TelescopeClientDirectNexStar.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/gui/SlewDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/gui/SlewDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/gui/TelescopeConfigurationDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/gui/TelescopeConfigurationDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/gui/TelescopeDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/gui/TelescopeDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/qrc_TelescopeControl.cxx"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>plugins/TelescopeControl/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>DEBUG3=1</Elem>
+            <Elem>DEBUG4=1</Elem>
+            <Elem>DEBUG5=1</Elem>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_DLL=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_PLUGIN=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>_REENTRANT=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Connection.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Connection.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/LogFile.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/LogFile.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Lx200Command.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Lx200Command.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Lx200Connection.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Lx200Connection.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/NexStarCommand.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/NexStarCommand.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/NexStarConnection.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/NexStarConnection.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/SerialPort.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/SerialPort.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Server.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Server.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Socket.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TelescopeControl/src/servers/Socket.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/ui_slewDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/ui_telescopeConfigurationDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TelescopeControl/src/ui_telescopeDialog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/DummyDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/DummyDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TextUserInterface.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TextUserInterface.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNode.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNode.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeActivate.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeActivate.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeBool.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeBool.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeColor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeColor.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeDateTime.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeDateTime.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeDouble.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeDouble.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeEditable.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeEditable.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeEnum.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeEnum.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeFloat.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeFloat.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeInt.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TextUserInterface/src/TuiNodeInt.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TimeZoneConfiguration/src/TimeZoneConfiguration.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TimeZoneConfiguration/src/TimeZoneConfiguration.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TimeZoneConfiguration/src/gui/DefineTimeZoneWindow.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TimeZoneConfiguration/src/gui/DefineTimeZoneWindow.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/TimeZoneConfiguration/src/gui/TimeZoneConfigurationWindow.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="plugins/TimeZoneConfiguration/src/gui/TimeZoneConfigurationWindow.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/CLIProcessor.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/CLIProcessor.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/StelLogger.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/StelLogger.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/StelMainGraphicsView.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/StelMainGraphicsView.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/StelMainWindow.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/StelMainWindow.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/MultiLevelJsonBase.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/MultiLevelJsonBase.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/OctahedronPolygon.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/OctahedronPolygon.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/RefractionExtinction.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/RefractionExtinction.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/SimbadSearcher.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/SimbadSearcher.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/SphericMirrorCalculator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/SphericMirrorCalculator.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/StelApp.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelApp.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelAppGraphicsWidget.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelAppGraphicsWidget.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelAudioMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelAudioMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelCore.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelCore.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelFader.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelFileMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelFileMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelGeodesicGrid.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelGeodesicGrid.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelGuiBase.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelGuiBase.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelIniParser.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelIniParser.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelJsonParser.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelJsonParser.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelLoadingBar.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelLoadingBar.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelLocaleMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelLocaleMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelLocation.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelLocation.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelLocationMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelLocationMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelModule.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelModule.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelModuleMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelModuleMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelMovementMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelMovementMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelObject.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelObject.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelObjectMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelObjectMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelObjectModule.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelObjectModule.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelObjectType.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelObserver.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelObserver.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelPainter.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelPainter.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelPluginInterface.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelProjector.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelProjector.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelProjectorClasses.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelProjectorClasses.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelProjectorType.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelRegionObject.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSkyCultureMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSkyCultureMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSkyDrawer.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSkyDrawer.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSkyImageTile.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSkyImageTile.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSkyLayer.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSkyLayer.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSkyLayerMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSkyLayerMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSkyPolygon.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSkyPolygon.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSphereGeometry.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSphereGeometry.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelSphericalIndex.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelSphericalIndex.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelTexture.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelTexture.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelTextureMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelTextureMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelTextureTypes.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelToneReproducer.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelToneReproducer.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelTranslator.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelTranslator.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelUtils.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelUtils.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelVertexArray.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelVertexArray.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelVideoMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelVideoMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/StelViewportEffect.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/StelViewportEffect.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/TrailGroup.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/TrailGroup.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/VecMath.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/external/GLee.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/GLee.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/external/fixx11h.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/external/gettext.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/glues.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/glues_error.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/glues_error.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/dict-list.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/dict.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/dict.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/geom.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/geom.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/memalloc.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/memalloc.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/mesh.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/mesh.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/normal.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/normal.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/priorityq-heap.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/priorityq-heap.i"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/priorityq-sort.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/priorityq.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/priorityq.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/render.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/render.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/sweep.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/sweep.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/tess.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/tess.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/tessmono.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/external/glues_stel/source/libtess/tessmono.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/kfilter/karchive.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/external/kfilter/karchive.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/kfilter/kfilterbase.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/external/kfilter/kfilterbase.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/kfilter/kfilterdev.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/external/kfilter/kfilterdev.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/kfilter/kgzipfilter.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/external/kfilter/kgzipfilter.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/kfilter/klimitediodevice.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/external/kfilter/klimitediodevice.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/external/kfilter/kzip.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/external/kfilter/kzip.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Atmosphere.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Atmosphere.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Comet.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Comet.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Constellation.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Constellation.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/ConstellationMgr.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/ConstellationMgr.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/modules/GridLinesMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/GridLinesMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/LabelMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/LabelMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Landscape.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Landscape.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/LandscapeMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/LandscapeMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Meteor.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Meteor.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/MeteorMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/MeteorMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/MilkyWay.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/MilkyWay.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/MinorPlanet.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/MinorPlanet.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Nebula.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Nebula.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/NebulaMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/NebulaMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Orbit.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Orbit.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Planet.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Planet.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Skybright.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Skybright.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Skylight.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Skylight.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/SolarSystem.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/SolarSystem.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Solve.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/Star.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/Star.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/StarMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/StarMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/StarWrapper.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/StarWrapper.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/ZoneArray.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/core/modules/ZoneArray.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/modules/ZoneData.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/calc_interpolated_elements.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/calc_interpolated_elements.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/elliptic_to_rectangular.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/elliptic_to_rectangular.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/elp82b.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/elp82b.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/gust86.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/gust86.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/l1.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/l1.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/marssat.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/marssat.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/pluto.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/pluto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/sideral_time.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/sideral_time.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/stellplanet.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/stellplanet.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/tass17.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/tass17.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/core/planetsephems/vsop87.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="src/core/planetsephems/vsop87.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/AddRemoveLandscapesDialog.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/AddRemoveLandscapesDialog.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/gui/AngleSpinBox.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/AngleSpinBox.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/AtmosphereDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/AtmosphereDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/ConfigurationDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/ConfigurationDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/DateTimeDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/DateTimeDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/Dialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/Dialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/HelpDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/HelpDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/LocationDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/LocationDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/MapLabel.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/MapLabel.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/ScriptConsole.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/ScriptConsole.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/SearchDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/SearchDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/SkyGui.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/SkyGui.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/StelDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/StelDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/StelGui.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/StelGui.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/StelGuiItems.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/StelGuiItems.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/StelScriptSyntaxHighlighter.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/StelScriptSyntaxHighlighter.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/gui/StelStyle.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/gui/ViewDialog.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/gui/ViewDialog.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/main.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/include/qt4/QtOpenGL</pElem>
+            <pElem>/usr/include/qt4/QtScript</pElem>
+            <pElem>/usr/include/qt4/QtGui</pElem>
+            <pElem>/usr/include/qt4/QtTest</pElem>
+            <pElem>/usr/include/qt4/QtNetwork</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+            <pElem>builds/unix</pElem>
+            <pElem>src</pElem>
+            <pElem>src/core</pElem>
+            <pElem>src/core/modules</pElem>
+            <pElem>src/core/planetsephems</pElem>
+            <pElem>src/core/external</pElem>
+            <pElem>src/core/external/kfilter</pElem>
+            <pElem>src/core/external/glues_stel/source</pElem>
+            <pElem>src/core/external/glues_stel/source/libtess</pElem>
+            <pElem>src/gui</pElem>
+            <pElem>src/scripting</pElem>
+            <pElem>builds/unix/src</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>NDEBUG</Elem>
+            <Elem>QT_NO_DEBUG</Elem>
+            <Elem>USE_STATIC_PLUGIN_KEPLERMISSION</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/qrc_guiRes.cxx" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>src</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_STATICPLUGIN=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_ANGLEMEASURE=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_COMPASSMARKS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_EXOPLANETS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_OCULARS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_PULSARS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_QUASARS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_SATELLITES=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_SOLARSYSTEMEDITOR=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_SUPERNOVAE=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_TELESCOPECONTROL=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_TEXTUSERINTERFACE=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_TIMEZONECONFIGURATION=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/qrc_mainRes.cxx" ex="false" tool="1" flavor2="4">
+        <ccTool>
+          <incDir>
+            <pElem>src</pElem>
+            <pElem>/usr/include/qt4/QtCore</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ENABLE_NLS=1</Elem>
+            <Elem>ENABLE_SCRIPT_CONSOLE=1</Elem>
+            <Elem>HAVE_POW10=1</Elem>
+            <Elem>QT_CORE_LIB=1</Elem>
+            <Elem>QT_DEBUG=1</Elem>
+            <Elem>QT_GUI_LIB=1</Elem>
+            <Elem>QT_NETWORK_LIB=1</Elem>
+            <Elem>QT_OPENGL_LIB=1</Elem>
+            <Elem>QT_SCRIPT_LIB=1</Elem>
+            <Elem>QT_TEST_LIB=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_ANGLEMEASURE=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_COMPASSMARKS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_EXOPLANETS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_OCULARS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_PULSARS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_QUASARS=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_SATELLITES=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_SOLARSYSTEMEDITOR=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_SUPERNOVAE=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_TELESCOPECONTROL=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_TEXTUSERINTERFACE=1</Elem>
+            <Elem>USE_STATIC_PLUGIN_TIMEZONECONFIGURATION=1</Elem>
+            <Elem>__REGISTER_PREFIX__=</Elem>
+            <Elem>__USER_LABEL_PREFIX__=</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/scripting/ScreenImageMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/scripting/ScreenImageMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/scripting/StelMainScriptAPI.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/scripting/StelMainScriptAPI.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/scripting/StelMainScriptAPIProxy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/scripting/StelMainScriptAPIProxy.hpp"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="src/scripting/StelScriptMgr.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/scripting/StelScriptMgr.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/scripting/StratoscriptPreprocessor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="src/ui_AtmosphereDialog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_addRemoveLandscapesDialog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_configurationDialog.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_dateTimeDialogGui.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_helpDialogGui.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_locationDialogGui.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_scriptConsole.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_searchDialogGui.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/ui_viewDialog.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
